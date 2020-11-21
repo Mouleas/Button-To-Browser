@@ -1,7 +1,5 @@
 # BUTTON_TO_BROWSER
 
-Easiest way to reach browser without typing the website site
+Easiest way to reach your favourite sites without typing the website site name.
 
-one click to reach your favourite sites
-
-#HAPPY_CODING
+# HAPPY_CODING
