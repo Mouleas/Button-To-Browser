@@ -2,4 +2,4 @@
 
 Easiest way to reach your favourite sites without typing the website site name.
 
-# HAPPY_CODING
+# HAPPY_CODING😊
