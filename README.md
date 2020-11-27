@@ -1,6 +1,6 @@
 # BUTTON_TO_BROWSER
 
-Easiest way to reach your favourite sites without typing the website site name.
+Easiest way to reach your favourite sites without typing the website name.
 Download this package
 ```python
 pip install pycopy-webbrowser
